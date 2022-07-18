@@ -4,8 +4,8 @@
 + 页面设计后期会出`独立UI`。
 + 手机端使用`uniapp`实现，目前仅支持`安卓端`和`iOS端`，`小程序端`和`H5端`暂未做适配，后期会继续适配`小程序端`、`H5端`、`桌面端`和`web端`。
 + 您的支持，就是我们`【生发的动力】`,请手动点个`star`吧。
-+ 前端源码地址：[https://gitee.com/lakaola/im-uniapp](https://gitee.com/lakaola/im-uniapp)
-+ 后端源码地址：[https://gitee.com/lakaola/im-platform](https://gitee.com/lakaola/im-platform)
++ 前端源码地址：[https://github.com/zmm2113/im-uniapp](https://github.com/zmm2113/im-uniapp)
++ 后端源码地址：[https://github.com/zmm2113/im-platform](https://github.com/zmm2113/im-platform)
 
 #### 二、技术使用
 + 推送：个推+自定义60天离线消息
